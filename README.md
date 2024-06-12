@@ -1,3 +1,5 @@
+![logo](https://github.com/RAGHIBRIZWAN/RAGHIBRIZWAN/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
+
 <div align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=250&color=279FD2&center=true&vCenter=true&random=false&width=435&lines=Game+Developer;AI+and+Blockchain+are+Love+%3C3;Entrepreneur" alt="Typing SVG" /></a>
 
 <h1 align="center">Hi 👋, I'm RAGHIB RIZWAN RABANI</h1>
